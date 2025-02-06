@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v56tgs6lo-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/v56tgs6lo-java-springboot
